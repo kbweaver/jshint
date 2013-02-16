@@ -6,3 +6,7 @@ node_modules/*
 
 # File with my local one-off experiments.
 demo.js
+
+# Sublime Text 2 files
+*.sublime-project
+*.sublime-workspace
